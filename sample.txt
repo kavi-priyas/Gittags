@@ -2,3 +2,4 @@ Git is a powerful version control system that allows developers to collaborate e
 Remote repositories, hosted on platforms like GitHub and GitLab, enable teams to work on projects from different locations. 
 By pushing local changes to a remote repository, developers can maintain a centralized codebase.
 Cloning a repository, making modifications, and submitting pull requests facilitate seamless teamwork.
+With commands like git add, git commit, and git push, developers can maintain a structured workflow
